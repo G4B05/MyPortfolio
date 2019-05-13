@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    background-color: lavender
+}
+
+img.main {
+    float: left;
+    width: 200px;
+    height: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.my-border {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}

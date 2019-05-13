@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Portfolio.html" />
+    <Content Include="styles.css" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
