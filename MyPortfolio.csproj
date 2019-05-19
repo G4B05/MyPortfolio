@@ -44,8 +44,8 @@
     <Folder Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Portfolio.html" />
-    <Content Include="styles.css" />
+    <Content Include="index.html" />
+    <Content Include="css\styles.css" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

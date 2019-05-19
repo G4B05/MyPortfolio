@@ -1,18 +1,27 @@
 body {
     font-family: Arial;
-    background-color: lavender
+    background-color: lavender;
+    max-width: 1024px;
+    margin: auto
+}
+
+div {
+    margin-top: 3px
 }
 
 img.main {
     float: left;
+    margin-right: 18px; 
     width: 200px;
     height: 250px;
-    padding: 10px;
-    margin: 10px;
 }
 
 .my-border {
     border: 2px solid black;
     padding: 10px;
+    margin: 10px;
+}
+
+.project-list {
     margin: 10px;
 }
